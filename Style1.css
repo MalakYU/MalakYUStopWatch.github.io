@@ -87,8 +87,7 @@ body {
       }
 
 .clock{
-    border: black 15px solid;
-    border-radius: 30%;
+    
     background: transparent;
     text-align: center  ;
     color: #0e0d0d;
